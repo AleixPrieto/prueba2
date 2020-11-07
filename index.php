@@ -11,5 +11,6 @@
 	</head>
 	<body>
 		<h1>Prueba</h1>
+		<h2>holaaaaaaaaaaa</h2>
 	</body>
 </html>
